@@ -424,7 +424,7 @@ pub fn main() !void {
 ```
 
 Now, I'm going to execute this program, with the `run` command from the
-`zig` compiler. But remember, as we sad earlier, as soon as I execute this program, it will
+`zig` compiler. But remember, as we said earlier, as soon as I execute this program, it will
 hang indefinitely, because the program is waiting for a client trying to
 connect to the server.
 
