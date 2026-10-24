@@ -4,7 +4,7 @@
 
 	"features": {
 		"ghcr.io/rocker-org/devcontainer-features/quarto-cli:1": {},
-		"ghcr.io/rocker-org/devcontainer-features/r-rig:1": {},
+		"ghcr.io/rocker-org/devcontainer-features/r-rig:2": {},
 		"ghcr.io/devcontainers-extra/features/zig:1": {}
 	},
 
